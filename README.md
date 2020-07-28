@@ -1,7 +1,6 @@
 # 42-21sh
 Hive Helsinki project.
 
-**Work in progress**
 ```
  _____  __      _          _ _
 / __  \/  |    | |        | | |
@@ -50,3 +49,4 @@ $> ./21sh
 | <kbd>ctrl+k</kbd> | Cut the part of the current command *after* the cursor, and add it to the internal clipboard buffer. |
 | <kbd>ctrl+u</kbd> | Cut the part of the current command *before* the cursor, and add it to the internal clipboard buffer. |
 | <kbd>ctrl+p</kbd> | Paste contents of the internal clipboad to the current command. |
+| <kbd>ctrl+r</kbd> | reverse-i-search |
